@@ -33,9 +33,9 @@ class Home extends Component {
 
     return (
       // <Link to="/">
-      <div className="app-container" testid="loader">
+      <div className="app-container">
         {isLoading ? (
-          <div>
+          <div testid="loader">
             <Loader type="Oval" color="#ffffff" height={50} width={50} />
           </div>
         ) : (

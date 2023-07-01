@@ -15,7 +15,7 @@ const MatchCard = props => {
   return (
     <li className="match-card-container">
       <img src={competingTeamLogo} alt={`competing team ${competingTeam}`} />
-      <h1>{competingTeam}</h1>
+      <p>{competingTeam}</p>
       <p>{result}</p>
       <p>{matchStatus}</p>{' '}
     </li>
