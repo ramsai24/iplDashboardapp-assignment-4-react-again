@@ -1,1 +1,79 @@
 /* Write your CSS here */
+.RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #0f172a);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.KKR {
+  background-image: linear-gradient(to bottom, #1e293b, #0f172a);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.KXP {
+  background-image: linear-gradient(to bottom, #a4261d, #d91c1f, #1e293b);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.CSK {
+  background-image: linear-gradient(to bottom, #f7db00, #1e293b);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.RR {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.MI {
+  background-image: linear-gradient(to bottom, #5755a7, #1e293b);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.SH {
+  background-image: linear-gradient(to bottom, #f26d22, #1e293b);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.DC {
+  background-image: linear-gradient(to bottom, #12318b, #1e293b);
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.match-cards-List-item-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  /* list-style-type: none; */
+}

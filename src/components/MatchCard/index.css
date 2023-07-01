@@ -1,1 +1,11 @@
 /* Write your CSS here */
+.match-card-container {
+  background-color: #0f172a;
+  margin: 14px;
+  border-radius: 8px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

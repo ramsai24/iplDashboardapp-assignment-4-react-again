@@ -1,1 +1,7 @@
 /* Write your CSS here */
+.latest-match-container {
+  width: 100%;
+  border: 1px solid #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
