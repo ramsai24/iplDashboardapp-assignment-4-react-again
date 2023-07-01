@@ -33,7 +33,7 @@ class Home extends Component {
 
     return (
       // <Link to="/">
-      <div className="app-container" data-testid="loader">
+      <div className="app-container" testid="loader">
         {isLoading ? (
           <div>
             <Loader type="Oval" color="#ffffff" height={50} width={50} />
